@@ -8,5 +8,5 @@ window.onscroll = function() {
 
 // AOS
 AOS.init({
-    duration: 800;
+    duration: 800
 });
